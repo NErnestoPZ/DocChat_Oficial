@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921708861985",
+    "firebase_url": "https://docchatfinal.firebaseio.com",
+    "project_id": "docchatfinal",
+    "storage_bucket": "docchatfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921708861985:android:45287402fdb2d27d08a160",
+        "android_client_info": {
+          "package_name": "com.example.DocChat_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921708861985-7edd688h9g2chgtfkc6vnqlhvqi8l2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALb92gLC25UKwLXAjJQRB6KBm292JPkn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921708861985-7edd688h9g2chgtfkc6vnqlhvqi8l2o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
